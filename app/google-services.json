@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19504969188",
+    "project_id": "spotifyclone-3d49f",
+    "storage_bucket": "spotifyclone-3d49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19504969188:android:34914da239e9c5c312c3f1",
+        "android_client_info": {
+          "package_name": "com.ckbhospital.patientapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkpOrxgtApLjsO-b36ZUWoZiumNh-8IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19504969188:android:9fe4efc3315b368412c3f1",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkpOrxgtApLjsO-b36ZUWoZiumNh-8IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
